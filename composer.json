@@ -1,5 +1,5 @@
 {
-    "name": "sokil/php-mongo",
+    "name": "mpenicaud/php-mongo",
     "description": "PHP Object Document Mapper for MongoDB",
     "license": "MIT",
     "keywords": ["mongodb", "odm"],
@@ -29,7 +29,7 @@
     },
     "suggest": {
         "sokil/php-mongo-migrator": "Add support of migrations",
-        "sokil/php-mongo-bundle": "Symfony Bundle",
+        "mpenicaud/php-mongo-bundle": "Symfony Bundle",
         "sokil/php-mongo-yii": "Yii Framework component"
     }
 }
